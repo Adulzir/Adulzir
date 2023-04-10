@@ -1,6 +1,8 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Adulzir Altamirano</h1>
 <h3 align="left">I am a data analyst, doing analytics/data Engineering things!</h3>
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adulzir&theme=default) 
+
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
